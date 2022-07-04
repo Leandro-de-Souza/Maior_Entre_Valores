@@ -1,0 +1,2 @@
+# Maior_Entre_Valores
+O referido programa lê uma quantidade N de números inteiros armazenando-os em um vetor. Em seguida mostra na tela qual o maior valor entre os valores e inclusive sua posição no vetor. Programa que pode facilmente ser adaptado para mostrar qual a maior compra numa lista de clientes, identificando qual cliente fez a compra. Este programa é disponibilizado nas linguagens C, C++, Java, C# e Python.
